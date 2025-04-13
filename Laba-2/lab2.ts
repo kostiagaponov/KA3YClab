@@ -56,10 +56,10 @@ console.log(Sum);
 
 
 enum Balls {
-    Football = "Футбольный мяч",
-    Basketball = "Баскетбольный мяч",
-    Tennis = "Теннисный мяч",
-    Volleyball = "Волейбольный мяч"
+    Football = "Футбольный хуй",
+    Basketball = "Баскетбольный хуй",
+    Tennis = "Теннисный хуй",
+    Volleyball = "Волейбольный хуй"
 }
 
 
